@@ -1,26 +1,26 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME KFT BAZAR
 // =======================================================
-var website_name = "YASIN";
+var website_name = KFT BAZAR
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL 
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = https://t.me/+juPJXzTet6tiYzdl
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINK 
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = https://t.me/+juPJXzTet6tiYzdl
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = https://youtube.com/@teamkft-8?si=HXLreAWlaYBSQgfQ
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
+১০০% বিশ্বস্ত ও দ্রুত AI ডেলিভারিতে
 অর্ডার করুন নিশ্চিন্তে ♥️`;
